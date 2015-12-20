@@ -41,4 +41,4 @@ For this script to work properly needs **python 2.7** and **nodejs** installed.
 }
 ```
 
-(Made by Ninjas)[http://www.ninjas.cl]
+[Made by Ninjas](http://www.ninjas.cl)
